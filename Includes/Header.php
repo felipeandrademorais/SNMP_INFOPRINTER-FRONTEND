@@ -21,7 +21,7 @@
 			<a class="nav-link" href="./index.php">Home<span class="sr-only">(current)</span></a>
 		  </li>
 		  <li class="nav-item active">
-			<a class="nav-link" href="./NewPrinter.php">New<span class="sr-only">(current)</span></a>
+			<a class="nav-link" href="./new_printer.php">Nova Impressora<span class="sr-only">(current)</span></a>
 		  </li>
 		</ul>
 		<form class="form-inline my-2 my-lg-0">

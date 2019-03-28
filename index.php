@@ -4,7 +4,7 @@
 </head>
 <body>
 <div class="container">
-	<?php include("./Includes/Table.php"); ?>
+	<?php include("./controller/printer/get.php"); ?>
 <div>
 
 </body>
